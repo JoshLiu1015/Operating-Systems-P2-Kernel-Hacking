@@ -14,8 +14,8 @@ This project involves adding two new system calls to the xv6 operating system, a
 
 ## Installation
 1. Obtain the xv6 source code:
-- cp ~cs537-1/public/xv6.tar.gz .
-- tar -xvf xv6.tar.gz
+cp ~cs537-1/public/xv6.tar.gz .
+tar -xvf xv6.tar.gz
 
 2. Navigate to the xv6 source directory and make modifications as described below.
 3. Compile the modified xv6 source code: make qemu-nox
